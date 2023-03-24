@@ -7,7 +7,9 @@ This is a clipboard website, built with Tailwind.
 ```
 npm install
 ```
+```
 npm run watch
+```
 ```
 npm run dev
 ```
